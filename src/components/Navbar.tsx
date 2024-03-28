@@ -2,7 +2,7 @@
 // Componente { Link } para navegação vem react-router-dom 
 // (<Link to="/">Home</Link>) o to é para o onde o usuário vai quando clica
 
-import React from "react";
+
 import { Link } from "react-router-dom";
 
 

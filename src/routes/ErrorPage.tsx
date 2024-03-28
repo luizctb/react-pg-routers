@@ -3,7 +3,6 @@
 // importar a página de erro ne página main.tsx
 // configurar o (errorElement: <ErrorPage />,) na estrtura router na main.tsx
 
-import React from "react";
 
 const ErrorPage = () => {
     return (

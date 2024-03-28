@@ -1,8 +1,6 @@
 // Página de Home/page do projeto
 // Importa o React
 
-import React from "react";
-
 const Home = () => {
     return (
         <div>
